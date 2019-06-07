@@ -1,0 +1,2 @@
+# Titanic-Dataset-Prediction-for-Kaggle-Competition
+In the Markdown file I have written code which is for kaggle titanic dataset competition. I have k-nearest neighbour algorithm to do the prediction and the feature reduction and transformation to train the model. With the unseen test data, I have also predicted with the trained model which has been written to csv and uploaded in the kagle competition with the name Koustava Goswami. The link for the same is - https://www.kaggle.com/c/titanic
